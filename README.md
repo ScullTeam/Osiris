@@ -27,10 +27,12 @@
 ## 📺 Demo
 
 <div align="center">
-  <video src="Demo.mp4" width="100%" style="max-width: 800px;" controls autoplay muted loop>
+  <video src="https://github.com/user-attachments/assets/e80e77f6-f8fa-4107-b869-0e95689a2d44" width="100%" style="max-width: 800px;" controls autoplay muted loop>
     Ваш браузер не поддерживает тег видео.
   </video>
 </div>
+
+
 
 
 
