@@ -26,11 +26,12 @@
 
 ## 📺 Demo
 
-div align=center
-  video src=Demo.mp4 width=100% max-width=800px controls autoplay muted loop
+<div align="center">
+  <video src="Demo.mp4" width="100%" style="max-width: 800px;" controls autoplay muted loop>
     Ваш браузер не поддерживает тег видео.
-  video
-div
+  </video>
+</div>
+
 
 
 ## 🚀 Перед началом работы
